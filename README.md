@@ -11,6 +11,13 @@ Stop searching for old bills and receipts. SnapHome keeps everything organized a
 </p>
 
 ---
+## 📱 Screenshots
+
+| Dashboard | Dashboard With Filters| Add Item | Edit Item | Upgrade |
+| --- | --- | --- | --- | --- |
+| <img src="Dashboard.png" width="200" alt="Dashboard"> | <img src="Dashboard with Filters.png" width="200" alt="Dashboard with Filters"> | <img src="Add Item.png" width="200" alt="Add Item"> | <img src="Edit Item.png" width="200" alt="Edit Item"> | <img src="Upgrade To Premium.png" width="200" alt="Upgrade To Premium"> |
+
+---
 
 ## 🔑 Key Features
 
