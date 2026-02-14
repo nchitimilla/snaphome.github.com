@@ -17,6 +17,10 @@ Stop searching for old bills and receipts. SnapHome keeps everything organized a
 | --- | --- | --- | --- | --- |
 | <img src="Dashboard.png" width="200" alt="Dashboard"> | <img src="Dashboard with Filters.png" width="200" alt="Dashboard with Filters"> | <img src="Add Item.png" width="200" alt="Add Item"> | <img src="Edit Item.png" width="200" alt="Edit Item"> | <img src="Upgrade To Premium.png" width="200" alt="Upgrade To Premium"> |
 
+### Notification Screenshots
+| 30 Days | 7 Days |
+| --- | --- |
+| <img src="30 Day Expiry Notification.png" width="200" alt="30 Day Expiry Notification"> | <img src="7 Day Expiry Notification.png" width="200" alt="7 Day Expiry Notification"> |
 ---
 
 ## 🔑 Key Features
